@@ -2,8 +2,8 @@ Pod::Spec.new do |s|
     s.name         = "BetSwapKit"
     s.version      = "1.0.0"
     s.summary      = "BetSwapKit"
-    s.description  = ""
-    s.homepage     = ""
+    s.description  = "The BetSwapLit native widget"
+    s.homepage     = "https://github.com/BetSwap/betswapkit-amelco-distribution-ios.git"
     s.license = { :type => "GNU", :file => "LICENSE" }
     s.author             = { "Jean-Francois Duval" => "jf@mission.dev" }
     s.source       = { :git => "https://github.com/BetSwap/betswapkit-amelco-distribution-ios.git", :branch => "main", :tag => "#{s.version}" }
