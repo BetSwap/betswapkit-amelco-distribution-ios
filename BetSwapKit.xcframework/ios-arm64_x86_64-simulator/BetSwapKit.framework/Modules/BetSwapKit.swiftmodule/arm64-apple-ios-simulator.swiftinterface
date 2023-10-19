@@ -1,0 +1,86 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9 effective-4.2 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
+// swift-module-flags: -target arm64-apple-ios16.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 4.2 -enforce-exclusivity=checked -O -module-name BetSwapKit
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AloeStackView
+import DeveloperToolsSupport
+import Foundation
+import NVActivityIndicatorView
+import Network
+import SafariServices
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BetSwapKitAdButtonView : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public init()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
+  @objc deinit
+}
+extension Swift.DecodingError {
+  public var detail: Swift.String {
+    get
+  }
+}
+@objc public protocol BetSwapKitAdsViewDelegate {
+  @objc func betSwapKitAdsViewDidDismiss(_ betSwapKitAdsView: BetSwapKit.BetSwapKitAdsView)
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BetSwapKitAdsView : UIKit.UIView, BetSwapKit.BetSwapAdsViewControllerDelegate {
+  @objc @_Concurrency.MainActor(unsafe) weak public var delegate: (any BetSwapKit.BetSwapKitAdsViewDelegate)?
+  @_Concurrency.MainActor(unsafe) @objc dynamic public init()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func removeFromSuperview()
+  @_Concurrency.MainActor(unsafe) @objc public func betSwapAdsViewControllerDidDismis(_ betSwapAdsViewController: BetSwapKit.BetSwapAdsViewController?)
+  @objc deinit
+}
+public enum BetSwapKitErrorType : Swift.Equatable {
+  case unknown
+  case http(Swift.Int)
+  case parsing
+  case noNetwork
+  public static func == (a: BetSwapKit.BetSwapKitErrorType, b: BetSwapKit.BetSwapKitErrorType) -> Swift.Bool
+}
+public struct BetSwapKitError : Swift.Error {
+  public let type: BetSwapKit.BetSwapKitErrorType
+  public let title: Swift.String
+  public let description: Swift.String
+  public let httpError: BetSwapKit.BetSwapKitHttpError?
+  public init(type: BetSwapKit.BetSwapKitErrorType, detail: Swift.String? = nil, httpError: BetSwapKit.BetSwapKitHttpError? = nil)
+}
+public struct BetSwapKitHttpError : Swift.Codable {
+  public var code: Swift.Int
+  public var message: Swift.String?
+  public init(from decoder: any Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+}
+@_inheritsConvenienceInitializers @objc public class BetSwapKit : ObjectiveC.NSObject {
+  @objc public static let shared: BetSwapKit.BetSwapKit
+  @discardableResult
+  @objc override dynamic public init()
+  @objc public func configure(externalId: Swift.String, sessionToken: Swift.String)
+  @objc public func presentBetSwapKit(in viewController: UIKit.UIViewController)
+  @objc deinit
+}
+extension Foundation.Data {
+  public var prettyPrintedJSONString: Foundation.NSString? {
+    get
+  }
+}
+@objc public protocol BetSwapAdsViewControllerDelegate {
+  @objc func betSwapAdsViewControllerDidDismis(_ betSwapAdsViewController: BetSwapKit.BetSwapAdsViewController?)
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) open class BetSwapAdsViewController : UIKit.UIViewController, UIKit.UITableViewDataSource, UIKit.UITableViewDelegate, UIKit.UISearchBarDelegate {
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc public func numberOfSections(in tableView: UIKit.UITableView) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, viewForHeaderInSection section: Swift.Int) -> UIKit.UIView?
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, heightForHeaderInSection section: Swift.Int) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) @objc public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc public func searchBar(_ searchBar: UIKit.UISearchBar, textDidChange searchText: Swift.String)
+  @objc deinit
+}
