@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/BetSwapKit-Swift.h</key>
 		<data>
-		7MbowXB4544smwRyyBJR8pRxHU8=
+		DkzvTZYsC065UT+Xazmaj1JUbQY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -98,19 +98,19 @@
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		iesjaQuF6xRb9t2AWn+Uwx/wcm8=
+		X0nDclBols4rQPRL/GiTnBB1wow=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ksMVrv/9WhNu4BFpPCIxe+fzn5Y=
+		rd/BLPoMPqDxtvgd3Rcn1L67cbE=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		iesjaQuF6xRb9t2AWn+Uwx/wcm8=
+		X0nDclBols4rQPRL/GiTnBB1wow=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		PVl3NqloH490gt4wzM3QDOB7vOQ=
+		RXIDjNNs/KBCxlgt7D/6wTQ7/UU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -125,6 +125,11 @@
 			<data>
 			UExvb88uv0T5IgqgYwVEuc4qFcIMS6cvrWTt8KU356o=
 			</data>
+		</dict>
+		<key>Frameworks/Foundation.framework/Versions/Current</key>
+		<dict>
+			<key>symlink</key>
+			<string>C</string>
 		</dict>
 		<key>GraphikBlack.otf</key>
 		<dict>
@@ -256,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aK3VkGpxQIRImRVSg9TFfzNmrlO+2mYCHa9+mgyJ4Vo=
+			5StY/kyibfctM1LxpDTNs/HkcCD2hcOG+r1BQVi8iOc=
 			</data>
 		</dict>
 		<key>Localizable.strings</key>
@@ -277,28 +282,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zbvIPolzmYUiW7EySvDlwRx58/B6iANKZ0i5Z85RbYY=
+			MixcZ8Hlw0OFhETmz9xWxMuoyLpd8gmeT1S3BVoPoGE=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PwWF+xAcxsBLPQbHFczCPBB04dL3TGY4c3zCc4D1fKw=
+			DCw+nb1D9zYmZm6GeEeyxDro3hMHStqh94upmYv9o6U=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zbvIPolzmYUiW7EySvDlwRx58/B6iANKZ0i5Z85RbYY=
+			MixcZ8Hlw0OFhETmz9xWxMuoyLpd8gmeT1S3BVoPoGE=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dPjPhD7lKZO9Qi4Uk/Ey9f7LYR/YRboTBILRGNxW81E=
+			YBuwUE6fqGrzex53b8qHhLUFcuPYIINhz60iituZIwM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
