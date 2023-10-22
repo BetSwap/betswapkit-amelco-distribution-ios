@@ -350,23 +350,13 @@ SWIFT_CLASS("_TtC10BetSwapKit22BetSwapKitAdButtonView")
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
-@protocol BetSwapKitAdsViewDelegate;
 
 SWIFT_CLASS("_TtC10BetSwapKit17BetSwapKitAdsView")
-@interface BetSwapKitAdsView : UIView <BetSwapAdsViewControllerDelegate>
-@property (nonatomic, weak) id <BetSwapKitAdsViewDelegate> _Nullable delegate;
+@interface BetSwapKitAdsView : UIView
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
 - (void)layoutSubviews;
-- (void)removeFromSuperview;
-- (void)betSwapAdsViewControllerDidDismis:(BetSwapAdsViewController * _Nullable)betSwapAdsViewController;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
-@end
-
-
-SWIFT_PROTOCOL("_TtP10BetSwapKit25BetSwapKitAdsViewDelegate_")
-@protocol BetSwapKitAdsViewDelegate
-- (void)betSwapKitAdsViewDidDismiss:(BetSwapKitAdsView * _Nonnull)betSwapKitAdsView;
 @end
 
 

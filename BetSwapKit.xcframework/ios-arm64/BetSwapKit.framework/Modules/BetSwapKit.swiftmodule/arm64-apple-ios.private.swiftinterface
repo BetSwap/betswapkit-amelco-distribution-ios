@@ -14,7 +14,7 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor(unsafe) public class BetSwapKitAdButtonView : UIKit.UIView {
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BetSwapKitAdButtonView : UIKit.UIView {
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
   @objc deinit
@@ -24,15 +24,9 @@ extension Swift.DecodingError {
     get
   }
 }
-@objc public protocol BetSwapKitAdsViewDelegate {
-  @objc func betSwapKitAdsViewDidDismiss(_ betSwapKitAdsView: BetSwapKit.BetSwapKitAdsView)
-}
-@_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor(unsafe) public class BetSwapKitAdsView : UIKit.UIView, BetSwapKit.BetSwapAdsViewControllerDelegate {
-  @objc @_Concurrency.MainActor(unsafe) weak public var delegate: (any BetSwapKit.BetSwapKitAdsViewDelegate)?
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BetSwapKitAdsView : UIKit.UIView {
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func removeFromSuperview()
-  @_Concurrency.MainActor(unsafe) @objc public func betSwapAdsViewControllerDidDismis(_ betSwapAdsViewController: BetSwapKit.BetSwapAdsViewController?)
   @objc deinit
 }
 public enum BetSwapKitErrorType : Swift.Equatable {
