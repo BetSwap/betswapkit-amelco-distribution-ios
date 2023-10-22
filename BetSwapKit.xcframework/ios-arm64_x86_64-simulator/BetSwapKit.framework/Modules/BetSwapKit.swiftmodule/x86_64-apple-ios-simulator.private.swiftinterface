@@ -53,6 +53,7 @@ public struct BetSwapKitHttpError : Swift.Codable {
   @objc public static let shared: BetSwapKit.BetSwapKit
   @discardableResult
   @objc override dynamic public init()
+  #warning("****** VERY IMPORTANT Allow host app to update them")
   @objc public func configure(externalId: Swift.String, sessionToken: Swift.String)
   @objc public func presentBetSwapKit(in viewController: UIKit.UIViewController)
   @objc deinit
