@@ -1,0 +1,24 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "betswapkit-amelco-distribution-ios",
+          "kind" : "root",
+          "location" : "/Users/jean-francoisduval/Repository/betswapkit-amelco-distribution-ios",
+          "name" : "betswapkit-amelco-distribution-ios"
+        },
+        "path" : "/Users/jean-francoisduval/Repository/betswapkit-amelco-distribution-ios/BetSwapKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "BetSwapKitPackage"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}

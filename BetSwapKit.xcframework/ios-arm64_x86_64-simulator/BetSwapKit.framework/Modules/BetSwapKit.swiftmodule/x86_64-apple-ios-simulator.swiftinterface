@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
-// swift-module-flags: -target x86_64-apple-ios16.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BetSwapKit
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BetSwapKit
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AloeStackView
 import DeveloperToolsSupport
@@ -14,7 +14,7 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BetSwapKitAdButtonView : UIKit.UIView {
+@_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor(unsafe) public class BetSwapKitAdButtonView : UIKit.UIView {
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
   @objc deinit
@@ -27,7 +27,7 @@ extension Swift.DecodingError {
 @objc public protocol BetSwapKitAdsViewDelegate {
   @objc func betSwapKitAdsViewDidDismiss(_ betSwapKitAdsView: BetSwapKit.BetSwapKitAdsView)
 }
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BetSwapKitAdsView : UIKit.UIView, BetSwapKit.BetSwapAdsViewControllerDelegate {
+@_hasMissingDesignatedInitializers @objc @_Concurrency.MainActor(unsafe) public class BetSwapKitAdsView : UIKit.UIView, BetSwapKit.BetSwapAdsViewControllerDelegate {
   @objc @_Concurrency.MainActor(unsafe) weak public var delegate: (any BetSwapKit.BetSwapKitAdsViewDelegate)?
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()

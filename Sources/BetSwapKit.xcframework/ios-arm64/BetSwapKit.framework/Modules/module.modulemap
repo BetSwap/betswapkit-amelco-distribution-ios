@@ -1,0 +1,4 @@
+framework module BetSwapKit {
+  header "BetSwapKit-Swift.h"
+  requires objc
+}
