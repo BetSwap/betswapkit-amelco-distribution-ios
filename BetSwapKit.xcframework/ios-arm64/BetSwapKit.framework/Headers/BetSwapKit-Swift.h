@@ -356,6 +356,7 @@ SWIFT_CLASS("_TtC10BetSwapKit17BetSwapKitAdsView")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
 - (void)layoutSubviews;
+- (void)configureWithAccountId:(NSString * _Nonnull)accountId sessionToken:(NSString * _Nonnull)sessionToken;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
