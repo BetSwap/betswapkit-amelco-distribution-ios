@@ -38,7 +38,7 @@ public enum BetSwapKitErrorType : Swift.Equatable {
 }
 public struct BetSwapKitError : Swift.Error {
   public let type: BetSwapKit.BetSwapKitErrorType
-  public let title: Swift.String
+  public var title: Swift.String
   public let description: Swift.String
   public let httpError: BetSwapKit.BetSwapKitHttpError?
   public init(type: BetSwapKit.BetSwapKitErrorType, detail: Swift.String? = nil, httpError: BetSwapKit.BetSwapKitHttpError? = nil)
