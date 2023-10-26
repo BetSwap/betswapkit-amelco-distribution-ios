@@ -8170,7 +8170,7 @@
       "kind": "IntegerLiteral",
       "offset": 389,
       "length": 15,
-      "value": "233478510000142"
+      "value": "234296210000227"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
@@ -8938,98 +8938,98 @@
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 3600,
+      "offset": 3637,
       "length": 12,
       "value": "\"Icon-Error\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 3682,
+      "offset": 3719,
       "length": 42,
       "value": "\"ad_sell_remove_confirmation_modal_action\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 3926,
+      "offset": 3963,
       "length": 41,
       "value": "\"ad_sell_remove_confirmation_modal_title\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 4000,
+      "offset": 4037,
       "length": 43,
       "value": "\"ad_sell_remove_confirmation_modal_message\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 4850,
+      "offset": 4887,
       "length": 41,
       "value": "\"ad_sell_available_entries_cell_disabled\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 4947,
+      "offset": 4984,
       "length": 40,
       "value": "\"ad_sell_available_entries_cell_loading\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5802,
+      "offset": 5839,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6094,
+      "offset": 6131,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 6136,
+      "offset": 6173,
       "length": 39,
       "value": "\"ad_sell_available_entries_cell_remove\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 6247,
+      "offset": 6284,
       "length": 37,
       "value": "\"ad_sell_available_entries_cell_sell\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6350,
+      "offset": 6387,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6411,
+      "offset": 6448,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
-      "offset": 6464,
+      "offset": 6501,
       "length": 41,
       "value": "\"ad_sell_available_entries_cell_disabled\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7253,
+      "offset": 7290,
       "length": 4,
       "value": "true"
     },
