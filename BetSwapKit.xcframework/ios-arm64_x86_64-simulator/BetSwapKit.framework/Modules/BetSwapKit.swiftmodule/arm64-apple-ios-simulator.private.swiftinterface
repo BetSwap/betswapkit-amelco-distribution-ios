@@ -4,7 +4,6 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import DeveloperToolsSupport
 import Foundation
-import NVActivityIndicatorView
 import Network
 import SafariServices
 import Swift
@@ -53,7 +52,6 @@ public struct BetSwapKitHttpError : Swift.Codable {
   @objc public static let shared: BetSwapKit.BetSwapKit
   @discardableResult
   @objc override dynamic public init()
-  #warning("****** VERY IMPORTANT Allow host app to update them")
   @objc public func configure(externalId: Swift.String, sessionToken: Swift.String)
   @objc public func presentBetSwapKit(in viewController: UIKit.UIViewController)
   @objc deinit
@@ -62,6 +60,13 @@ extension Foundation.Data {
   public var prettyPrintedJSONString: Foundation.NSString? {
     get
   }
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class BetSwapKitAdButtonsViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
 }
 @objc public protocol BetSwapAdsViewControllerDelegate {
   @objc func betSwapAdsViewControllerDidDismis(_ betSwapAdsViewController: BetSwapKit.BetSwapAdsViewController?)

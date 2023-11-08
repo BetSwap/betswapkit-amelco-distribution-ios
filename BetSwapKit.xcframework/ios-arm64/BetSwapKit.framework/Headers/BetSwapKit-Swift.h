@@ -351,6 +351,15 @@ SWIFT_CLASS("_TtC10BetSwapKit22BetSwapKitAdButtonView")
 @end
 
 
+SWIFT_CLASS("_TtC10BetSwapKit33BetSwapKitAdButtonsViewController")
+@interface BetSwapKitAdButtonsViewController : UIViewController
+- (void)viewDidLoad;
+- (void)viewWillAppear:(BOOL)animated;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC10BetSwapKit17BetSwapKitAdsView")
 @interface BetSwapKitAdsView : UIView
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -359,6 +368,7 @@ SWIFT_CLASS("_TtC10BetSwapKit17BetSwapKitAdsView")
 - (void)configureWithAccountId:(NSString * _Nonnull)accountId sessionToken:(NSString * _Nonnull)sessionToken;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
+
 
 
 
