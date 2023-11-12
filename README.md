@@ -13,5 +13,6 @@
 ## To add the kit in a host app
 
 To add the depency add it reference the `podfile`
+
 ```pod 'BetSwapKit', podspec: 'https://raw.githubusercontent.com/BetSwap/betswapkit-amelco-distribution-ios/main/BetSwapKit.podspec'``` 
 
