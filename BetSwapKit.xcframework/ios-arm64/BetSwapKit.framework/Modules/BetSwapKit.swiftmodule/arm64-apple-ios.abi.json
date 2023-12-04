@@ -7762,111 +7762,111 @@
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
       "offset": 3210,
-      "length": 28,
-      "value": "\"amelco.betswap-testing.com\""
+      "length": 22,
+      "value": "\"amelco.betswap.cloud\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 3267,
+      "offset": 3318,
       "length": 7,
       "value": "\"https\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 3301,
+      "offset": 3352,
       "length": 32,
       "value": "\"\/api\/v1\/\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 3332,
+      "offset": 3383,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "IntegerLiteral",
-      "offset": 3645,
+      "offset": 3696,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4096,
+      "offset": 4147,
       "length": 87,
       "value": "\"Request param serializatioURLRequestConvertiblen error: \""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4182,
+      "offset": 4233,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4258,
+      "offset": 4309,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4480,
+      "offset": 4531,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4638,
+      "offset": 4689,
       "length": 14,
       "value": "\"sessionToken\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4755,
+      "offset": 4806,
       "length": 93,
       "value": "\"👁️👁️👁️\nToken: \""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4797,
+      "offset": 4848,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4800,
+      "offset": 4851,
       "length": 1,
       "value": "\"\nUserID: \""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4844,
+      "offset": 4895,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4847,
+      "offset": 4898,
       "length": 11,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouter.swift",
       "kind": "StringLiteral",
-      "offset": 4960,
+      "offset": 5011,
       "length": 15,
       "value": "\"Authorization\""
     },
