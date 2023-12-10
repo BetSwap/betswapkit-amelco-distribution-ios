@@ -25,7 +25,7 @@ extension Swift.DecodingError {
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class BetSwapKitAdsView : UIKit.UIView {
   @_Concurrency.MainActor(unsafe) @objc dynamic public init()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
-  @objc @_Concurrency.MainActor(unsafe) public func configure(accountId: Swift.String, sessionToken: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func configure(accountId: Swift.String, sessionToken: Swift.String, production: Swift.Bool)
   @objc deinit
 }
 public enum BetSwapKitErrorType : Swift.Equatable {
@@ -52,7 +52,7 @@ public struct BetSwapKitHttpError : Swift.Codable {
   @objc public static let shared: BetSwapKit.BetSwapKit
   @discardableResult
   @objc override dynamic public init()
-  @objc public func configure(externalId: Swift.String, sessionToken: Swift.String)
+  @objc public func configure(externalId: Swift.String, sessionToken: Swift.String, production: Swift.Bool)
   @objc public func presentBetSwapKit(in viewController: UIKit.UIViewController)
   @objc deinit
 }
@@ -62,6 +62,7 @@ extension Foundation.Data {
   }
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class BetSwapKitAdButtonsViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) public var production: Swift.Bool
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)

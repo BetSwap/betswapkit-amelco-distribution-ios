@@ -337,7 +337,7 @@ SWIFT_CLASS("_TtC10BetSwapKit10BetSwapKit")
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) BetSwapKit * _Nonnull shared;)
 + (BetSwapKit * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (void)configureWithExternalId:(NSString * _Nonnull)externalId sessionToken:(NSString * _Nonnull)sessionToken;
+- (void)configureWithExternalId:(NSString * _Nonnull)externalId sessionToken:(NSString * _Nonnull)sessionToken production:(BOOL)production;
 - (void)presentBetSwapKitIn:(UIViewController * _Nonnull)viewController;
 @end
 
@@ -365,7 +365,7 @@ SWIFT_CLASS("_TtC10BetSwapKit17BetSwapKitAdsView")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
 - (void)layoutSubviews;
-- (void)configureWithAccountId:(NSString * _Nonnull)accountId sessionToken:(NSString * _Nonnull)sessionToken;
+- (void)configureWithAccountId:(NSString * _Nonnull)accountId sessionToken:(NSString * _Nonnull)sessionToken production:(BOOL)production;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
@@ -735,7 +735,7 @@ SWIFT_CLASS("_TtC10BetSwapKit10BetSwapKit")
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) BetSwapKit * _Nonnull shared;)
 + (BetSwapKit * _Nonnull)shared SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-- (void)configureWithExternalId:(NSString * _Nonnull)externalId sessionToken:(NSString * _Nonnull)sessionToken;
+- (void)configureWithExternalId:(NSString * _Nonnull)externalId sessionToken:(NSString * _Nonnull)sessionToken production:(BOOL)production;
 - (void)presentBetSwapKitIn:(UIViewController * _Nonnull)viewController;
 @end
 
@@ -763,7 +763,7 @@ SWIFT_CLASS("_TtC10BetSwapKit17BetSwapKitAdsView")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
 - (void)layoutSubviews;
-- (void)configureWithAccountId:(NSString * _Nonnull)accountId sessionToken:(NSString * _Nonnull)sessionToken;
+- (void)configureWithAccountId:(NSString * _Nonnull)accountId sessionToken:(NSString * _Nonnull)sessionToken production:(BOOL)production;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
 @end
 
