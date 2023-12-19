@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		WbdqCsBpJeTTZyEpDOAJxA1ZFsA=
+		sbRRJgpTmBXQHDthntYurJy5Oqw=
 		</data>
 		<key>GraphikBlack.otf</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>Headers/BetSwapKit-Swift.h</key>
 		<data>
-		jNrEUiH8JFv9iyc3u4wSInt1kUY=
+		+bnsbEjxC6sm5ARUJLCDu+eT2Ss=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OzNBRPnPKjWQVewL4WwvC0gnAoo=
+		b5fme7Ts4mMnZB4KGjzvl3EtRQc=
 		</data>
 		<key>Localizable.strings</key>
 		<data>
@@ -94,23 +94,23 @@
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		FKXbp9jJlOFcZv0n88Husdz1X/8=
+		4pn+o8D6H0rerjajjmC7gpcbmw0=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		bz/VaWFgm2O3KhNvLdlPF2XmoqI=
+		yggMvoe06MWlBABdFoe1KJ7e7e8=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		8wwF3EuQlLbmpSQy9CUdCrR4eRg=
+		lk6owMRYiivCgGl0UcofuuQ6pyY=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		bz/VaWFgm2O3KhNvLdlPF2XmoqI=
+		yggMvoe06MWlBABdFoe1KJ7e7e8=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		96taPgvDiA5jeRXJIueIxbT++7Y=
+		JG7F2Ko5Xk3RVhDOuQkNy/U81i8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,13 +123,8 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n8qSTe60RKxH2n7uZFTkVfMQMQZymO7yM82dKoFPkTE=
+			dt7/xVc26j2dh3PGDAYoeELbCuT+m3HaFWli8VgFubc=
 			</data>
-		</dict>
-		<key>Frameworks/Foundation.framework/Versions/Current</key>
-		<dict>
-			<key>symlink</key>
-			<string>C</string>
 		</dict>
 		<key>GraphikBlack.otf</key>
 		<dict>
@@ -261,7 +256,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFr8Xagan0zGzEv/FCCGLRjnhNF19xZeC8vFpCO6FhU=
+			2rBy9uH8C8lZWq8WxibBak+wXWAXfjVyLLtet+YdF4M=
 			</data>
 		</dict>
 		<key>Localizable.strings</key>
@@ -275,35 +270,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0UdlFPboXaslsSRPdz1NcRP7J8unqFzQn8OmULO9QH0=
+			DhCGZqeLV+A0k6g7zhpM7b+Vrls+pCy+hZRK0CVJRAQ=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r8dGRsi77lXxp0xU71wmehSTvQzDvG9WzcMexK4HA5U=
+			uyO9IRhlkWhuZbXVSJUPfRPDwjcdroc/IHA3maSp7u4=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JCdvpG3R6bbLTwUMKJbitpSqQLjzJ6z7R4uflB7dz+4=
+			qbAmEZa2jzPiSF/ckbsu5/x8MBDu6fYK1N1A+dxwUd0=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r8dGRsi77lXxp0xU71wmehSTvQzDvG9WzcMexK4HA5U=
+			uyO9IRhlkWhuZbXVSJUPfRPDwjcdroc/IHA3maSp7u4=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KBs/9LZ2j7ubXL5czupBrSIFliUUeDEXX6piwbgd8tM=
+			HUwhYGTDhyPW0qOlGCKS4QNyT7vLz5Yk2YMbKTSx5DU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
