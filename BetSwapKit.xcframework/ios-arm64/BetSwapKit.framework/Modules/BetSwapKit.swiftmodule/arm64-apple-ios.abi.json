@@ -11209,38 +11209,66 @@
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 480,
+      "length": 31,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 521,
+      "length": 32,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "StringLiteral",
-      "offset": 564,
+      "offset": 647,
       "length": 9,
       "value": "\"Default\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "StringLiteral",
-      "offset": 623,
-      "length": 32,
-      "value": "\"Sale Price - Lowest to Highest\""
-    },
-    {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
-      "kind": "StringLiteral",
       "offset": 706,
-      "length": 32,
-      "value": "\"Sale Price - Highest to Lowest\""
+      "length": 29,
+      "value": "\"Sale Price • Low → High\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "StringLiteral",
-      "offset": 792,
-      "length": 32,
-      "value": "\"Bet Payout - Lowest to Highest\""
+      "offset": 786,
+      "length": 29,
+      "value": "\"Sale Price • High → Low\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "StringLiteral",
-      "offset": 879,
-      "length": 32,
-      "value": "\"Bet Payout - Highest to Lowest\""
+      "offset": 869,
+      "length": 31,
+      "value": "\"Total Return • Low → High\""
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "StringLiteral",
+      "offset": 955,
+      "length": 31,
+      "value": "\"Total Return • High → Low\""
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "StringLiteral",
+      "offset": 1053,
+      "length": 34,
+      "value": "\"Better Payout % • Low → High\""
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "StringLiteral",
+      "offset": 1155,
+      "length": 34,
+      "value": "\"Better Payout % • High → Low\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
@@ -11273,6 +11301,20 @@
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
+      "offset": 480,
+      "length": 31,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 521,
+      "length": 32,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "IntegerLiteral",
       "offset": 374,
       "length": 14,
       "value": "1"
@@ -11297,6 +11339,20 @@
       "offset": 451,
       "length": 19,
       "value": "4"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 480,
+      "length": 31,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 521,
+      "length": 32,
+      "value": "6"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
@@ -12345,202 +12401,230 @@
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 810,
-      "length": 2,
-      "value": "10"
+      "length": 1,
+      "value": "5"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 843,
+      "offset": 842,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "Array",
-      "offset": 896,
+      "offset": 895,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "Array",
-      "offset": 1008,
+      "offset": 1007,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1508,
+      "offset": 1507,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2059,
+      "offset": 2058,
       "length": 2,
       "value": "72"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2260,
+      "offset": 2259,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2349,
+      "offset": 2348,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2496,
+      "offset": 2495,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2555,
+      "offset": 2554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2913,
+      "offset": 2912,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2950,
+      "offset": 2949,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3235,
+      "offset": 3234,
       "length": 19,
       "value": "\"xmark.circle.fill\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4917,
+      "offset": 4916,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6904,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6927,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7035,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7058,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "Array",
-      "offset": 6905,
+      "offset": 7165,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7044,
+      "offset": 7304,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7145,
+      "offset": 7405,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7212,
+      "offset": 7472,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7278,
+      "offset": 7538,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7967,
+      "offset": 8227,
       "length": 29,
       "value": "\"No bets currently available\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8103,
+      "offset": 8363,
       "length": 26,
       "value": "\"No bets currently posted\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10596,
+      "offset": 10856,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10683,
+      "offset": 10943,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10731,
+      "offset": 10991,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11104,
+      "offset": 11364,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12505,
+      "offset": 12765,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12590,
+      "offset": 12850,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12860,
+      "offset": 13120,
       "length": 19,
       "value": "\"xmark.circle.fill\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13307,
+      "offset": 13567,
       "length": 4,
       "value": "true"
     },
@@ -12808,7 +12892,7 @@
       "kind": "StringLiteral",
       "offset": 2875,
       "length": 14,
-      "value": "\"Aussie Rules\""
+      "value": "\"Aussie rules\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
@@ -13046,7 +13130,7 @@
       "kind": "StringLiteral",
       "offset": 7637,
       "length": 14,
-      "value": "\"Table Tennis\""
+      "value": "\"Table tennis\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
