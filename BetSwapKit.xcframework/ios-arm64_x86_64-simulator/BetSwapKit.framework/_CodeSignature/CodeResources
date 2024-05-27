@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		nXSxVhMi89X2kcYAV77VGIqWtMk=
+		30wbisKknS2tQ3Ng7CNZNVPV+tQ=
 		</data>
 		<key>GraphikBlack.otf</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WwCyaB+5n666MhNK9H2Q88bTLyI=
+		346/HcCQEANIZYC8QB2r3yleZ6k=
 		</data>
 		<key>Localizable.strings</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		uK4eyAg/mrel1bLXF+1WOIB6u0Y=
+		ElVKipEaBVnCp0gOYiYJz0JVpso=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YF48LfE9StJMIo34Du1zufV1+Sw=
+		ztDuCq+tX0+mB4TZ/N51yOP/2Kw=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		uK4eyAg/mrel1bLXF+1WOIB6u0Y=
+		ElVKipEaBVnCp0gOYiYJz0JVpso=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/Z+0hjns0hOEDqOng0aieFrYgf4=
+		vi18uoBV0+RgYA7NLzbLJ2zt9xU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,7 +143,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yk2pW+E5aSCPkdTUqYNNPs9qjueciNteX9W/YmJ8uFw=
+			kigShxTRB5WgAQ3ZxFDlbB72tHtXpdd4wQKtXuzuqMc=
 			</data>
 		</dict>
 		<key>GraphikBlack.otf</key>
@@ -290,7 +290,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZHB2IrKdlUFIUwyr8AIyK9J/3LP6CTGTCMcoG8KMEvY=
+			evg35Uj4Cicl2lODRUiNYwubBdVepuzFuZRAdkdxaXE=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -318,14 +318,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bV5ylQ0AHlJc2xGl71bz6A7rSp5fUCf7CZPvGhxSCsc=
+			LPMkydCBnTbZUAl29jv1g5H9qc5oOn+TAQ6sJs11wJ8=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZHB2IrKdlUFIUwyr8AIyK9J/3LP6CTGTCMcoG8KMEvY=
+			evg35Uj4Cicl2lODRUiNYwubBdVepuzFuZRAdkdxaXE=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -353,7 +353,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BQWiFVLtSKA/KLt3ChbHz6UOErNxHF3Fnb3WDHDWIUw=
+			UlgoAIn2XSDJdz+c0pkW3InbYb8L3T8By6ZuKS7C5YU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

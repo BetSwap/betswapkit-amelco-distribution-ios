@@ -6536,7 +6536,7 @@
       "kind": "StringLiteral",
       "offset": 2875,
       "length": 14,
-      "value": "\"Aussie Rules\""
+      "value": "\"Aussie rules\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
@@ -6711,82 +6711,89 @@
       "kind": "StringLiteral",
       "offset": 6415,
       "length": 12,
+      "value": "\"Icon-Close\""
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6556,
+      "length": 12,
       "value": "\"Icon-Error\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6543,
+      "offset": 6684,
       "length": 5,
       "value": "\"MMA\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6670,
+      "offset": 6811,
       "length": 8,
       "value": "\"Nascar\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6804,
+      "offset": 6945,
       "length": 10,
       "value": "\"Politics\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6947,
+      "offset": 7088,
       "length": 14,
       "value": "\"Rugby League\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7092,
+      "offset": 7233,
       "length": 13,
       "value": "\"Rugby Union\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7229,
+      "offset": 7370,
       "length": 9,
       "value": "\"Snooker\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7360,
+      "offset": 7501,
       "length": 8,
       "value": "\"Soccer\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7494,
+      "offset": 7635,
       "length": 10,
       "value": "\"Specials\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7637,
+      "offset": 7778,
       "length": 14,
-      "value": "\"Table Tennis\""
+      "value": "\"Table tennis\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7773,
+      "offset": 7914,
       "length": 8,
       "value": "\"Tennis\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7918,
+      "offset": 8059,
       "length": 16,
       "value": "\"Tennis Doubles\""
     }
