@@ -2195,6 +2195,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BetSwapKit",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -5690,6 +5700,34 @@
       "offset": 741,
       "length": 8,
       "value": "\"DELETE\""
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 339,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 539,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 746,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
+      "kind": "StringLiteral",
+      "offset": 131,
+      "length": 18,
+      "value": "\"BetSwapKit.BetSwapAdStakeView\""
     },
     {
       "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
