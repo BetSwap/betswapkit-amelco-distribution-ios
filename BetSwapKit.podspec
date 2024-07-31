@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
-    s.name         = "BetSwapKit"
-    s.version      = "1.3.8"
+    s.name         = "BetSwapSDK"
+    s.version      = "1.4.0"
     s.summary      = "BetSwapKit"
     s.description  = "The BetSwapLit native widget"
     s.homepage     = "https://github.com/BetSwap/betswapkit-amelco-distribution-ios.git"
     s.license = { :type => "GNU", :file => "LICENSE" }
-    s.author             = { "Jean-Francois Duval" => "jf@mission.dev" }
+    s.author             = { "Tao-Nhan Nguyen" => "tao.nguyen@mission.dev" }
     s.source       = { :git => "https://github.com/BetSwap/betswapkit-amelco-distribution-ios.git", :branch => "main", :tag => "#{s.version}" }
     s.vendored_frameworks = "BetSwapKit.xcframework"
     s.platform = :ios

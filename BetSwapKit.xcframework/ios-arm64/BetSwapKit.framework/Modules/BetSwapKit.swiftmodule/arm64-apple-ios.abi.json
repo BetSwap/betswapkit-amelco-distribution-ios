@@ -2195,16 +2195,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BetSwapKit",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4050,2788 +4040,2753 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/Int+Extension.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/Int+Extension.swift",
       "kind": "IntegerLiteral",
       "offset": 248,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/UIStackView+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/UIStackView+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 375,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/UIStackView+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/UIStackView+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 396,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/UIStackView+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/UIStackView+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 415,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 566,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 634,
       "length": 2,
       "value": "34"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 649,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 696,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1054,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1122,
       "length": 2,
       "value": "34"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1137,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1184,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "StringLiteral",
       "offset": 1386,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1440,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellListedFooterView.swift",
       "kind": "StringLiteral",
       "offset": 192,
       "length": 29,
       "value": "\"BetSwapKit.BetSwapAdSellListedFooterView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "IntegerLiteral",
       "offset": 478,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "StringLiteral",
       "offset": 487,
       "length": 12,
       "value": "\"All Sports\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "StringLiteral",
       "offset": 713,
       "length": 18,
       "value": "\"chevron.backward\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 796,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 1001,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "IntegerLiteral",
       "offset": 1214,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "IntegerLiteral",
       "offset": 1454,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 1763,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 1865,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 2006,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "StringLiteral",
       "offset": 2173,
       "length": 15,
       "value": "\"chevron.right\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 2253,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 2460,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "IntegerLiteral",
       "offset": 2676,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "IntegerLiteral",
       "offset": 2918,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 20,
       "value": "\"BetSwapKit.BetSwapSportSelector\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 6730,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 7002,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 7270,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "IntegerLiteral",
       "offset": 7306,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "BooleanLiteral",
       "offset": 7484,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapSportSelector.swift",
       "kind": "StringLiteral",
       "offset": 6307,
       "length": 28,
       "value": "\"BetSwapKit.BetSwapSportSelectorItemView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
       "kind": "StringLiteral",
       "offset": 458,
       "length": 21,
       "value": "\"Icon-BetSwap-Button\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
       "kind": "FloatLiteral",
       "offset": 567,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
       "kind": "BooleanLiteral",
       "offset": 762,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
       "kind": "BooleanLiteral",
       "offset": 810,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsSellActionView.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 24,
       "value": "\"BetSwapKit.BetSwapAdsSellActionView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonView.swift",
       "kind": "Dictionary",
       "offset": 347,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonView.swift",
       "kind": "StringLiteral",
       "offset": 192,
       "length": 22,
       "value": "\"BetSwapKit.BetSwapKitAdButtonView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellViewController.swift",
       "kind": "StringLiteral",
       "offset": 190,
       "length": 27,
       "value": "\"BetSwapKit.BetSwapAdSellViewController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 631,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 820,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1018,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1231,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1445,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1492,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1681,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1858,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "StringLiteral",
       "offset": 1900,
       "length": 9,
       "value": "\"Buy now\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1968,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 2181,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 2220,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Buy\/BetSwapAdBuyFooterView.swift",
       "kind": "StringLiteral",
       "offset": 334,
       "length": 22,
       "value": "\"BetSwapKit.BetSwapAdBuyFooterView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapCountdownLabel.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapCountdownLabel.swift",
       "kind": "StringLiteral",
       "offset": 184,
       "length": 21,
       "value": "\"BetSwapKit.BetSwapCountdownLabel\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "BooleanLiteral",
       "offset": 973,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1252,
       "length": 2,
       "value": "72"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1444,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1510,
       "length": 3,
       "value": "150"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1670,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1768,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1989,
       "length": 2,
       "value": "-8"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "BooleanLiteral",
       "offset": 2191,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2246,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2260,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2273,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2287,
       "length": 4,
       "value": "1.00"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2339,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2353,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2366,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2380,
       "length": 4,
       "value": "1.00"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "StringLiteral",
       "offset": 2699,
       "length": 12,
       "value": "\"arrow.down\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 2862,
       "length": 3,
       "value": "4.0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "BooleanLiteral",
       "offset": 3114,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "StringLiteral",
       "offset": 3164,
       "length": 10,
       "value": "\"ads_sort\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 3245,
       "length": 1,
       "value": "9"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "BooleanLiteral",
       "offset": 3562,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "StringLiteral",
       "offset": 3741,
       "length": 17,
       "value": "\"ads_all_entries\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "StringLiteral",
       "offset": 3770,
       "length": 16,
       "value": "\"ads_my_entries\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "BooleanLiteral",
       "offset": 3875,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 4127,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 4141,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 4154,
       "length": 5,
       "value": "0.071"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "FloatLiteral",
       "offset": 4168,
       "length": 4,
       "value": "1.00"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 4229,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "IntegerLiteral",
       "offset": 4494,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "BooleanLiteral",
       "offset": 4551,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "BooleanLiteral",
       "offset": 5002,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapAdsFilterView.swift",
       "kind": "StringLiteral",
       "offset": 555,
       "length": 20,
       "value": "\"BetSwapKit.BetSwapAdsFilterView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 497,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 515,
       "length": 2,
       "value": "58"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 532,
       "length": 3,
       "value": "106"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 497,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 515,
       "length": 2,
       "value": "58"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 532,
       "length": 3,
       "value": "106"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 497,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 515,
       "length": 2,
       "value": "58"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 532,
       "length": 3,
       "value": "106"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "StringLiteral",
       "offset": 627,
       "length": 24,
       "value": "\"BetSwapKit.BetSwapAlertActionButton\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 3121,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 3222,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 3268,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "StringLiteral",
       "offset": 3522,
       "length": 7,
       "value": "\"xmark\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 3724,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 4015,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4043,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4154,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4164,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4176,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4187,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 4240,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 4421,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4456,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4588,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4598,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4609,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "IntegerLiteral",
       "offset": 4619,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "BooleanLiteral",
       "offset": 4678,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Alerts\/BetSwapAlertController.swift",
       "kind": "StringLiteral",
       "offset": 2746,
       "length": 22,
       "value": "\"BetSwapKit.BetSwapAlertController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
       "kind": "BooleanLiteral",
       "offset": 399,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
       "kind": "StringLiteral",
       "offset": 722,
       "length": 21,
       "value": "\"Icon-BetSwap-Button\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
       "kind": "FloatLiteral",
       "offset": 831,
       "length": 3,
       "value": "2.0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
       "kind": "BooleanLiteral",
       "offset": 1018,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
       "kind": "BooleanLiteral",
       "offset": 1066,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/All Bets\/BetSwapAdsBuyActionView.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 23,
       "value": "\"BetSwapKit.BetSwapAdsBuyActionView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdsView.swift",
       "kind": "Dictionary",
       "offset": 347,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdsView.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 17,
       "value": "\"BetSwapKit.BetSwapKitAdsView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapKitError.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapKitError.swift",
       "kind": "StringLiteral",
       "offset": 1756,
       "length": 12,
       "value": "\"error_code\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapKitError.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapKitError.swift",
       "kind": "StringLiteral",
       "offset": 1756,
       "length": 12,
       "value": "\"error_code\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapAdViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapAdViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 842,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapAdViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapAdViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1022,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapAdViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapAdViewController.swift",
       "kind": "StringLiteral",
       "offset": 484,
       "length": 23,
       "value": "\"BetSwapKit.BetSwapAdViewController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/BetSwapKit.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/BetSwapKit.swift",
       "kind": "BooleanLiteral",
       "offset": 389,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/NumberFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/NumberFormatter+Extensions.swift",
       "kind": "BooleanLiteral",
       "offset": 375,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/NumberFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/NumberFormatter+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 591,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapMyAdNavigationController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapMyAdNavigationController.swift",
       "kind": "StringLiteral",
       "offset": 136,
       "length": 31,
       "value": "\"BetSwapKit.BetSwapMyAdNavigationController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapMyAdNavigationController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapMyAdNavigationController.swift",
       "kind": "StringLiteral",
       "offset": 136,
       "length": 31,
       "value": "\"BetSwapKit.BetSwapMyAdNavigationController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapMyAdNavigationController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/BetSwapMyAdNavigationController.swift",
       "kind": "StringLiteral",
       "offset": 136,
       "length": 31,
       "value": "\"BetSwapKit.BetSwapMyAdNavigationController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapMyBetsTableHeaderView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapMyBetsTableHeaderView.swift",
       "kind": "BooleanLiteral",
       "offset": 453,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapMyBetsTableHeaderView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapMyBetsTableHeaderView.swift",
       "kind": "BooleanLiteral",
       "offset": 717,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapMyBetsTableHeaderView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapMyBetsTableHeaderView.swift",
       "kind": "BooleanLiteral",
       "offset": 893,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 559,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 748,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 946,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1135,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1180,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1281,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1626,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 1738,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 1920,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 2098,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "StringLiteral",
       "offset": 2140,
       "length": 10,
       "value": "\"Post Bet\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 2209,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 2305,
       "length": 2,
       "value": "34"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 2320,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 2490,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "IntegerLiteral",
       "offset": 2529,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "BooleanLiteral",
       "offset": 2559,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Sell\/BetSwapAdSellOpenFooterView.swift",
       "kind": "StringLiteral",
       "offset": 194,
       "length": 27,
       "value": "\"BetSwapKit.BetSwapAdSellOpenFooterView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
       "kind": "BooleanLiteral",
       "offset": 349,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
       "kind": "BooleanLiteral",
       "offset": 550,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
       "kind": "BooleanLiteral",
       "offset": 757,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPayoutView.swift",
       "kind": "StringLiteral",
       "offset": 132,
       "length": 19,
       "value": "\"BetSwapKit.BetSwapAdPayoutView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "BooleanLiteral",
       "offset": 430,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "IntegerLiteral",
       "offset": 542,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "BooleanLiteral",
       "offset": 732,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "IntegerLiteral",
       "offset": 1197,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "BooleanLiteral",
       "offset": 1678,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "IntegerLiteral",
       "offset": 1723,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "BooleanLiteral",
       "offset": 1909,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "BooleanLiteral",
       "offset": 2195,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "IntegerLiteral",
       "offset": 2236,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "BooleanLiteral",
       "offset": 2432,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "IntegerLiteral",
       "offset": 2474,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdPartView.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 17,
       "value": "\"BetSwapKit.BetSwapAdPartView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
       "kind": "IntegerLiteral",
       "offset": 887,
       "length": 3,
       "value": "160"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
       "kind": "FloatLiteral",
       "offset": 946,
       "length": 3,
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
       "kind": "BooleanLiteral",
       "offset": 1209,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiClient.swift",
       "kind": "IntegerLiteral",
       "offset": 1233,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdHeaderView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdHeaderView.swift",
       "kind": "BooleanLiteral",
       "offset": 397,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdHeaderView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 188,
       "length": 19,
       "value": "\"BetSwapKit.BetSwapAdHeaderView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsType.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsType.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsType.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsType.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsType.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsType.swift",
       "kind": "IntegerLiteral",
       "offset": 225,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
       "kind": "BooleanLiteral",
       "offset": 397,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
       "kind": "BooleanLiteral",
       "offset": 575,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
       "kind": "BooleanLiteral",
       "offset": 766,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
       "kind": "BooleanLiteral",
       "offset": 948,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Header\/BetSwapColumnDescriptionView.swift",
       "kind": "StringLiteral",
       "offset": 191,
       "length": 28,
       "value": "\"BetSwapKit.BetSwapColumnDescriptionView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
       "kind": "IntegerLiteral",
       "offset": 389,
       "length": 15,
       "value": "234296210000227"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
       "kind": "StringLiteral",
       "offset": 454,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
       "kind": "StringLiteral",
       "offset": 502,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
       "kind": "BooleanLiteral",
       "offset": 516,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
       "kind": "StringLiteral",
       "offset": 532,
       "length": 5,
       "value": "\"...\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/React Bridging\/BetSwapKitAdButtonViewTestVireController.swift",
       "kind": "StringLiteral",
       "offset": 209,
       "length": 40,
       "value": "\"BetSwapKit.BetSwapKitAdButtonViewTestVireController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "BooleanLiteral",
       "offset": 449,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "BooleanLiteral",
       "offset": 560,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "BooleanLiteral",
       "offset": 598,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "BooleanLiteral",
       "offset": 638,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "StringLiteral",
       "offset": 781,
       "length": 18,
       "value": "\"terms_conditions\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "IntegerLiteral",
       "offset": 854,
       "length": 2,
       "value": "11"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "StringLiteral",
       "offset": 988,
       "length": 28,
       "value": "\"terms_conditions_clickable\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "StringLiteral",
       "offset": 1062,
       "length": 21,
       "value": "\"https:\/\/betswap.com\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "StringLiteral",
       "offset": 221,
       "length": 18,
       "value": "\"BetSwapKit.BetSwapAdTermsView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "BooleanLiteral",
       "offset": 2920,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "StringLiteral",
       "offset": 2970,
       "length": 12,
       "value": "\"powered_by\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "IntegerLiteral",
       "offset": 3050,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "BooleanLiteral",
       "offset": 3265,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "StringLiteral",
       "offset": 3374,
       "length": 19,
       "value": "\"Icon-BetSwap-Full\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdTermsView.swift",
       "kind": "StringLiteral",
       "offset": 2716,
       "length": 8,
       "value": "\"BetSwapKit.LogoView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsListedActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsListedActionView.swift",
       "kind": "BooleanLiteral",
       "offset": 445,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsListedActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsListedActionView.swift",
       "kind": "BooleanLiteral",
       "offset": 647,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsListedActionView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/My Bets\/BetSwapAdsListedActionView.swift",
       "kind": "StringLiteral",
       "offset": 189,
       "length": 26,
       "value": "\"BetSwapKit.BetSwapAdsListedActionView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
       "kind": "BooleanLiteral",
       "offset": 432,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
       "kind": "BooleanLiteral",
       "offset": 650,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 778,
       "length": 3,
       "value": "2.5"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
       "kind": "BooleanLiteral",
       "offset": 992,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
       "kind": "FloatLiteral",
       "offset": 1090,
       "length": 3,
       "value": "2.5"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapProgressView.swift",
       "kind": "StringLiteral",
       "offset": 175,
       "length": 19,
       "value": "\"BetSwapKit.BetSwapProgressView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
       "offset": 694,
       "length": 21,
       "value": "\"Icon-BetSwap-Button\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "FloatLiteral",
       "offset": 803,
       "length": 3,
       "value": "8.0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "IntegerLiteral",
       "offset": 855,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "BooleanLiteral",
       "offset": 985,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Components\/BetSwapMyAdButtonView.swift",
       "kind": "StringLiteral",
       "offset": 184,
       "length": 21,
       "value": "\"BetSwapKit.BetSwapMyAdButtonView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 673,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 695,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 717,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 673,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 695,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 717,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/Rest client\/RestApiRouterProtocol.swift",
       "kind": "StringLiteral",
       "offset": 741,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 339,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 539,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 746,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdStakeView.swift",
-      "kind": "StringLiteral",
-      "offset": 131,
-      "length": 18,
-      "value": "\"BetSwapKit.BetSwapAdStakeView\""
-    },
-    {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 417,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 632,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 905,
       "length": 2,
       "value": "22"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1437,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 1683,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1724,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 2002,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "BooleanLiteral",
       "offset": 2207,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/Cell\/BetSwapAdsTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 6494,
       "length": 7,
       "value": "\"BetSwapKit.HotView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/DataProvider\/DataProvider+Sport.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/API\/DataProvider\/DataProvider+Sport.swift",
       "kind": "BooleanLiteral",
       "offset": 254,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Bets.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Bets.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 6,
       "value": "\"bets\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Bets.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Bets.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 6,
       "value": "\"bets\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 231,
       "length": 13,
       "value": "\"IN PROGRESS\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 266,
       "length": 11,
       "value": "\"COMPLETED\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 5,
       "value": "\"TIE\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 320,
       "length": 11,
       "value": "\"ABANDONED\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 231,
       "length": 13,
       "value": "\"IN PROGRESS\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 266,
       "length": 11,
       "value": "\"COMPLETED\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 5,
       "value": "\"TIE\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/EventStatus.swift",
       "kind": "StringLiteral",
       "offset": 320,
       "length": 11,
       "value": "\"ABANDONED\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/BetSwapKitAdButtonsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/BetSwapKitAdButtonsViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 315,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/BetSwapKitAdButtonsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/BetSwapKitAdButtonsViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 490,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/BetSwapKitAdButtonsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/BetSwapKitAdButtonsViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 592,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Ads.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Ads.swift",
       "kind": "StringLiteral",
       "offset": 270,
       "length": 5,
       "value": "\"ads\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Ads.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Ads.swift",
       "kind": "StringLiteral",
       "offset": 270,
       "length": 5,
       "value": "\"ads\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 437,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 641,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 835,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1033,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1228,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1436,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "IntegerLiteral",
       "offset": 1483,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1680,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "IntegerLiteral",
       "offset": 1723,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdBuyTransactionConfirmationView.swift",
       "kind": "StringLiteral",
       "offset": 208,
       "length": 39,
       "value": "\"BetSwapKit.BetSwapAdBuyTransactionConfirmationView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 14,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 15,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 423,
       "length": 18,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 451,
       "length": 19,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 31,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
       "length": 32,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 14,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 15,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 423,
       "length": 18,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 451,
       "length": 19,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 31,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
       "length": 32,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 374,
       "length": 14,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 398,
       "length": 15,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 423,
       "length": 18,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 451,
       "length": 19,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 480,
       "length": 31,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/BetSwapAdsFilter.swift",
       "kind": "IntegerLiteral",
       "offset": 521,
       "length": 32,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 344,
       "length": 28,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSSZ\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 477,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 521,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 694,
       "length": 30,
       "value": "\"yyyy-MM-dd'T'HH:mm:ss.SSS'Z'\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 829,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 873,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1046,
       "length": 28,
       "value": "\"yyyy-MM-dd'T'HH:mm:ssZZZZZ\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 1179,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1223,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1380,
       "length": 8,
       "value": "\"h:mm a\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1430,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1604,
       "length": 14,
       "value": "\"MMMM d, yyyy\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1663,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1843,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 1900,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2095,
       "length": 15,
       "value": "\"HH:mm:ss.SSSS\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2155,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2344,
       "length": 10,
       "value": "\"MM.dd.yy\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2399,
       "length": 13,
       "value": "\"en_US_POSIX\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2566,
       "length": 24,
       "value": "\"EEE, MMM d, yyyy h:mma\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2715,
       "length": 20,
       "value": "\"MMM d, yyyy, h:mma\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2854,
       "length": 16,
       "value": "\"dd MMM, hh:mma\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 2987,
       "length": 13,
       "value": "\"EEEE, MMM d\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 3123,
       "length": 19,
       "value": "\"EEEE, MMM d h:mma\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 3245,
       "length": 12,
       "value": "\"EEE, h:mma\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 3340,
       "length": 7,
       "value": "\"h:mma\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/DateFormatter+Extensions.swift",
       "kind": "StringLiteral",
       "offset": 3421,
       "length": 12,
       "value": "\"EEEE h:mma\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 439,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 652,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 855,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1053,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1247,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1454,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "IntegerLiteral",
       "offset": 1501,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1698,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "IntegerLiteral",
       "offset": 1741,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdSellTransactionConfirmationView.swift",
       "kind": "StringLiteral",
       "offset": 209,
       "length": 40,
       "value": "\"BetSwapKit.BetSwapAdSellTransactionConfirmationView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
       "kind": "BooleanLiteral",
       "offset": 398,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
       "kind": "StringLiteral",
       "offset": 186,
       "length": 17,
       "value": "\"BetSwapKit.BetSwapAdOddsView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
       "kind": "BooleanLiteral",
       "offset": 1937,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
       "kind": "BooleanLiteral",
       "offset": 2120,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ad\/Rows\/BetSwapAdOddsView.swift",
       "kind": "StringLiteral",
       "offset": 1731,
       "length": 16,
       "value": "\"BetSwapKit.BetSwapAdOddView\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/Double+Extensions.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Extensions\/Double+Extensions.swift",
       "kind": "IntegerLiteral",
       "offset": 868,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 798,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "Array",
       "offset": 851,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "Array",
       "offset": 963,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1463,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2014,
       "length": 2,
       "value": "72"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2215,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2451,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/UX\/Ads\/BetSwapAdsViewController.swift",
       "kind": "StringLiteral",
       "offset": 366,
       "length": 24,
       "value": "\"BetSwapKit.BetSwapAdsViewController\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Sports.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Sports.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 8,
       "value": "\"sports\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Repository\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Sports.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/AM\/073_Betswap\/betswapkit-amelco-ios\/Sources\/BetSwapKit\/Classes\/Model\/Sports.swift",
       "kind": "StringLiteral",
       "offset": 279,
       "length": 8,
       "value": "\"sports\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 620,
       "length": 8,
       "value": "\"Border\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 760,
       "length": 13,
       "value": "\"Destructive\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 897,
       "length": 9,
       "value": "\"Primary\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1034,
       "length": 11,
       "value": "\"Secondary\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1195,
       "length": 22,
       "value": "\"SportsFilterSelected\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1371,
       "length": 24,
       "value": "\"SportsFilterUnselected\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1521,
       "length": 10,
       "value": "\"Tertiary\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1675,
       "length": 19,
       "value": "\"backgroundPrimary\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1842,
       "length": 21,
       "value": "\"backgroundSecondary\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2015,
       "length": 23,
       "value": "\"backgroungColorAction\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2160,
       "length": 8,
       "value": "\"footer\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2314,
       "length": 20,
       "value": "\"footerConfirmation\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2568,
       "length": 12,
       "value": "\"All Sports\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2723,
       "length": 19,
       "value": "\"American Football\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2875,
       "length": 14,
-      "value": "\"Aussie rules\""
+      "value": "\"Aussie Rules\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3030,
       "length": 18,
       "value": "\"Australian Rules\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3176,
       "length": 11,
       "value": "\"Badminton\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3313,
       "length": 10,
       "value": "\"Baseball\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3453,
       "length": 12,
       "value": "\"Basketball\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3606,
       "length": 18,
       "value": "\"Beach Volleyball\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3750,
       "length": 10,
       "value": "\"Biathlon\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3882,
       "length": 8,
       "value": "\"Boxing\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4014,
       "length": 9,
       "value": "\"Cricket\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4147,
       "length": 9,
       "value": "\"Cycling\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4276,
       "length": 7,
       "value": "\"Darts\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4407,
       "length": 9,
       "value": "\"Esports\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4531,
       "length": 4,
       "value": "\"F1\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4653,
       "length": 6,
       "value": "\"Fire\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4785,
       "length": 10,
       "value": "\"Formula1\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 4934,
       "length": 17,
       "value": "\"Gaelic Football\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5088,
       "length": 16,
       "value": "\"Gaelic Hurling\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5222,
       "length": 6,
       "value": "\"Golf\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5369,
       "length": 18,
       "value": "\"Greyhound Racing\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5513,
       "length": 10,
       "value": "\"Handball\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5656,
       "length": 14,
       "value": "\"Horse Racing\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5799,
       "length": 12,
       "value": "\"Ice Hockey\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 5944,
       "length": 14,
       "value": "\"Icon-BetSwap\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6104,
       "length": 21,
       "value": "\"Icon-BetSwap-Button\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6267,
       "length": 19,
       "value": "\"Icon-BetSwap-Full\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 6415,
-      "length": 12,
-      "value": "\"Icon-Close\""
-    },
-    {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 6556,
       "length": 12,
       "value": "\"Icon-Error\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6684,
+      "offset": 6543,
       "length": 5,
       "value": "\"MMA\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6811,
+      "offset": 6670,
       "length": 8,
       "value": "\"Nascar\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6945,
+      "offset": 6804,
       "length": 10,
       "value": "\"Politics\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7088,
+      "offset": 6947,
       "length": 14,
       "value": "\"Rugby League\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7233,
+      "offset": 7092,
       "length": 13,
       "value": "\"Rugby Union\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7370,
+      "offset": 7229,
       "length": 9,
       "value": "\"Snooker\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7501,
+      "offset": 7360,
       "length": 8,
       "value": "\"Soccer\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7635,
+      "offset": 7494,
       "length": 10,
       "value": "\"Specials\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7778,
+      "offset": 7637,
       "length": 14,
-      "value": "\"Table tennis\""
+      "value": "\"Table Tennis\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7914,
+      "offset": 7773,
       "length": 8,
       "value": "\"Tennis\""
     },
     {
-      "filePath": "\/Users\/jean-francoisduval\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-ayqmpnldptzerbeuctmefzvjonoy\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/tao-nhannguyen\/Library\/Developer\/Xcode\/DerivedData\/BetSwapKit-aijpxahcveihiqekkduoubkfphqq\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BetSwapKit\/IntermediateBuildFilesPath\/BetSwapKit.build\/Release-iphoneos\/BetSwapKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8059,
+      "offset": 7918,
       "length": 16,
       "value": "\"Tennis Doubles\""
     }
