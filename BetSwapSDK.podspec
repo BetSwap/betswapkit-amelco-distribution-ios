@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "BetSwapSDK"
-    s.version      = "1.4.1"
+    s.version      = "1.4.2"
     s.summary      = "BetSwapSDK"
     s.description  = "The BetSwapLit native widget"
     s.homepage     = "https://github.com/BetSwap/betswapkit-amelco-distribution-ios.git"

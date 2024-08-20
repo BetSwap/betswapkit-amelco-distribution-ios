@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		8GyvkhsFQA88L8E6Wswh/DawhW4=
+		QO4+IzhoFThpdnWzlLvzjHTU2Oo=
 		</data>
 		<key>GraphikBlack.otf</key>
 		<data>
@@ -86,15 +86,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		346/HcCQEANIZYC8QB2r3yleZ6k=
+		n6W0yUjyaNtUtZWnhMuV9M0CGrY=
 		</data>
 		<key>Localizable.strings</key>
 		<data>
-		FIEJhvvePI5Ty+NVy8HwhBj8Ngw=
+		PJB15C8QYJz4yFzlRJlZe9m+HSg=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6TB96EI2wixfOFsPQ6ClsHZvH80=
+		BWeLY46e4l59D8/HGOVE43A48Zo=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OBlUoM44UYylPkBG8ByvPa1JSUo=
+		CVzY3VwXV9sNOPv5T9zAF35hAFM=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6TB96EI2wixfOFsPQ6ClsHZvH80=
+		BWeLY46e4l59D8/HGOVE43A48Zo=
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -130,11 +130,59 @@
 		</data>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		a4oX1Jkw1UmTmwzFhf7mIcqr0R8=
+		Ti/vsjpdq9kIyzYghomnuI5i7Ic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		pJOsB6PaJA8ZcPc1G+8rGEYI7yc=
+		</data>
+		<key>Roboto-Black.ttf</key>
+		<data>
+		d/n6wFKTSFEgeZ6DwWIloa+WHyU=
+		</data>
+		<key>Roboto-BlackItalic.ttf</key>
+		<data>
+		afGBj3cBwAm3/1SrjnN/klw01xQ=
+		</data>
+		<key>Roboto-Bold.ttf</key>
+		<data>
+		HouqZQ2UPyt48bd9v+O6H7WQ4ho=
+		</data>
+		<key>Roboto-BoldItalic.ttf</key>
+		<data>
+		Q5P+1iRizI3WEXVTm+aPdjmOt0M=
+		</data>
+		<key>Roboto-Italic.ttf</key>
+		<data>
+		AVk+tIIHc0/R4G4euRIn0RF7oec=
+		</data>
+		<key>Roboto-Light.ttf</key>
+		<data>
+		ApcAaMvFtNr1tTDplKW29UfQO8E=
+		</data>
+		<key>Roboto-LightItalic.ttf</key>
+		<data>
+		Idaya0+WlTlM7MoXNJSGECR2T4A=
+		</data>
+		<key>Roboto-Medium.ttf</key>
+		<data>
+		DuawvV/2/jDk73IKCOOGVtxgmF8=
+		</data>
+		<key>Roboto-MediumItalic.ttf</key>
+		<data>
+		GZRu3AijI4d0WKQCjV2uy8twsL4=
+		</data>
+		<key>Roboto-Regular.ttf</key>
+		<data>
+		zlf8bGcFyyBmGsMl+sXUWYtu+8o=
+		</data>
+		<key>Roboto-Thin.ttf</key>
+		<data>
+		B63lapS7yoeUjOeHigsUod+buHo=
+		</data>
+		<key>Roboto-ThinItalic.ttf</key>
+		<data>
+		agjV/zmJ0rSo6WDKDojn4P8QRwg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -143,7 +191,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Ep64v2/VyeJ8WKim3UxbVVuN+dIFdLYqi/U3BnHrTg=
+			AC8UNrH9sjYBp9QNVqkBLO0ipdnCimCNBz8GOCXralo=
 			</data>
 		</dict>
 		<key>GraphikBlack.otf</key>
@@ -283,14 +331,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u5OaFWSUxYA/a+LNKX92wZImWA5ERzYvVhovzSUdtv8=
+			Hno+Wv0OAeWuzBWms+0XlBVQotDDdDuKRjrA5sqlRzs=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I7UOS9N5gsppLj4V+wfUOWeJi5walwI4dBfnxqMr9Iw=
+			lyXYMAcCt8kKOpGcCE8VwFgbFslEjVf6hvcjjzXQyks=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -318,14 +366,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wjGL/FmVcFMK2Q39Y/+vzOu/JSoZ/G4TBAg4SLO8jsQ=
+			eXg26sQBaC2+yGGMBPKfUp3xtijP7JbTLjnEssHJ+BM=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I7UOS9N5gsppLj4V+wfUOWeJi5walwI4dBfnxqMr9Iw=
+			lyXYMAcCt8kKOpGcCE8VwFgbFslEjVf6hvcjjzXQyks=
 			</data>
 		</dict>
 		<key>Modules/BetSwapKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -353,7 +401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eTYZ6ZfnVLttGuN6txAjFQauSpv2D3FsOhEL8DxRZ4=
+			Uc7SFbAtxa8T3Uaz80AZU8kNQKkG/hJ2LFu6DSfrPCM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -361,6 +409,90 @@
 			<key>hash2</key>
 			<data>
 			f91l68WwSXU2kWjitGzguMIo6n7BdViR/7RtresJzgI=
+			</data>
+		</dict>
+		<key>Roboto-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5eAG0lrFVOQ+aCC7W6ByHpI2zCYsTyMHFux/OYr7shc=
+			</data>
+		</dict>
+		<key>Roboto-BlackItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wd/p9zSLH98zWb9DppFyq9ojWXxNYqJ0IMAP26Y1D2E=
+			</data>
+		</dict>
+		<key>Roboto-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			joyxJ1VL3ZyGhXiNzlV+JyWpti4YPZFR+1BrMAfKagc=
+			</data>
+		</dict>
+		<key>Roboto-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S0U6Leo+/it1ElHjNpj7PJhht9ZmnJDu9jLsj9Ez2e0=
+			</data>
+		</dict>
+		<key>Roboto-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gPprITM3eZvlxxhPqc/Tf3z3LDMTzJ3cTEESTACvnBk=
+			</data>
+		</dict>
+		<key>Roboto-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R2lw8Hq+6N0hF/IgCQddBHJftWFyfqD0/a2QBHg9sgE=
+			</data>
+		</dict>
+		<key>Roboto-LightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			enOStQatcOTyDsnLh/+97fGCMuVqHwExoADCUJhPI1U=
+			</data>
+		</dict>
+		<key>Roboto-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DeZ53k09I2xKYOE70s0W0PkzaOn2uoSDhagCPC5TwgI=
+			</data>
+		</dict>
+		<key>Roboto-MediumItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q2mvmU2BGh/UFldMtWwzs4lItbnEkG6otS5Pvfqb/m4=
+			</data>
+		</dict>
+		<key>Roboto-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kqYnZjMRQMpbyLulIChCLSdgYa1XF8GsUIoRi2Gcauw=
+			</data>
+		</dict>
+		<key>Roboto-Thin.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XzBVwpo+SEIYnSYi9bfU7SKyRlRQ2djfInokk8gaesE=
+			</data>
+		</dict>
+		<key>Roboto-ThinItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8A0fu6g5yt6GHvy4e8moS9EUH6jnhV113iA+6r/UmN4=
 			</data>
 		</dict>
 	</dict>
