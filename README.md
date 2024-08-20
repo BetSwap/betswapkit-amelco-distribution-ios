@@ -1,4 +1,4 @@
-# BetSwapKit Amelco iOS
+# BetSwapSDK Amelco iOS
 
 ## To distribute the package
 
@@ -16,7 +16,6 @@ We are building the SDK manually and it can be shared as such, but also push it 
 ## To add the kit in a host app
 
 To add the depency add it reference the `podfile`
-
 
 ```pod 'BetSwapSDK', podspec: 'https://raw.githubusercontent.com/CocoaPods/Specs/379b3b428caef7468162e1c17b86b202b6c009de/Specs/5/8/3/BetSwapSDK/1.4.1/BetSwapSDK.podspec.json
 '```
